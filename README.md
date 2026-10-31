@@ -36,3 +36,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for writing and review guidance.
 ## License
 
 See [LICENSE](LICENSE) for the current licensing status.
+### Links
+
+https://www.youtube.com/@TheCSHeretic
