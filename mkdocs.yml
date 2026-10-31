@@ -1,0 +1,20 @@
+site_name: csh_notebook
+site_description: User documentation for csh_notebook
+docs_dir: docs
+strict: true
+
+nav:
+  - Home: index.md
+  - Getting started:
+      - Overview: getting-started/index.md
+      - Installation: getting-started/installation.md
+      - Quickstart: getting-started/quickstart.md
+  - Guides:
+      - Overview: guides/index.md
+      - Configuration: guides/configuration.md
+  - Architecture:
+      - Overview: architecture/index.md
+      - Design overview: architecture/design-overview.md
+  - Reference:
+      - Overview: reference/index.md
+      - API: reference/api.md
